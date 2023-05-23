@@ -1,0 +1,29 @@
+body {
+  padding: 10px;
+  /* max-width: 600px; */
+}
+main{
+  max-width: 760px;
+  margin: 0 20%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  margin: 5px;
+}
+.submit-button {
+  margin-top: 10px;
+  padding: 5px;
+}
+.form-group-radio {
+  margin-bottom: 20px;
+}
